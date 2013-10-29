@@ -15,6 +15,9 @@
         "symfony/framework-bundle" : "~2.3",
         "bestnetwork/telnet": "1.0.x-dev"
     },
+    "require-dev": {
+        "bestnetwork/telnet": "1.0.x-dev"
+    },
     "autoload": {
         "psr-0": {
             "Bestnetwork\\GSMGateway\\2n\\Voiceblue\\": ""
