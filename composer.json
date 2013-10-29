@@ -1,7 +1,7 @@
 {
     "name": "bestnetwork/2n-voiceblue",
     "description": "Voiceblue GSM Gateway from 2n",
-    "keywords": ["GSM Gateway", "2n", "Voiceblue"],
+    "keywords": ["symfony2", "GSM Gateway", "2n", "Voiceblue"],
     "type": "symfony-bundle",
     "license": "MIT",
     "authors": [
