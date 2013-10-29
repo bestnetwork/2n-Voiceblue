@@ -1,0 +1,30 @@
+{
+    "name": "bestnetwork/2n-voiceblue",
+    "description": "Voiceblue GSM Gateway from 2n",
+    "keywords": ["GSM Gateway", "2n", "Voiceblue"],
+    "type": "symfony-bundle",
+    "license": "MIT",
+    "authors": [
+    	{
+    		"name": "Bestnetwork",
+    		"email": "reparto.sviluppo@bestnetwork.it"
+		}
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "symfony/framework-bundle" : "~2.3",
+        "bestnetwork/telnet": "1.0.*@dev"
+    },
+    "autoload": {
+        "psr-0": {
+            "Bestnetwork\\GSMGateway\\2n\\Voiceblue\\": ""
+        }
+    },
+    "minimum-stability": "dev",
+    "extra": {
+        "branch-alias": {
+            "dev-master": "0.0-dev"
+        }
+    }
+}
+
