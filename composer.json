@@ -17,7 +17,7 @@
     },
     "autoload": {
         "psr-0": {
-            "Bestnetwork\\GSMGateway\\2n\\Voiceblue\\": ""
+            "Bestnetwork\\GSMGateway\\TwoN\\Voiceblue\\": ""
         }
     },
     "minimum-stability": "dev",

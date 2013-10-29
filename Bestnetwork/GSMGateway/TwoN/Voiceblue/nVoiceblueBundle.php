@@ -1,5 +1,5 @@
 <?php
-namespace Bestnetwork\GSMGateway\2n\Voiceblue;
+namespace Bestnetwork\GSMGateway\TwoN\Voiceblue;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 
@@ -10,5 +10,5 @@ use Bestnetwork\Telnet;
  *
  * @author Bestnetwork <reparto.sviluppo@bestnetwork.it>
  */
-class 2nVoiceblueBundle extends Bundle {
+class TwoNVoiceblueBundle extends Bundle {
 }
