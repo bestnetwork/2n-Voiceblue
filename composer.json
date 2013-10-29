@@ -13,7 +13,7 @@
     "require": {
         "php": ">=5.3.0",
         "symfony/framework-bundle" : "~2.3",
-        "bestnetwork/telnet": "1.0.*@dev"
+        "bestnetwork/telnet": "1.0.x-dev"
     },
     "autoload": {
         "psr-0": {
