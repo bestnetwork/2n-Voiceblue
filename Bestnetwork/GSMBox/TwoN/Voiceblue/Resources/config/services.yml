@@ -1,0 +1,7 @@
+parameters:
+    gsm_box.gateways.2n.voiceblue.class: Bestnetwork\GSMBox\TwoN\Voiceblue\Plugin\GatewayManagerPlugin
+
+services:
+    gsm_box.gateway.2n.voiceblue:
+        class: %gsm_box.gateways.2n.voiceblue.class%
+        tags:  [{ name: gsm_box.gateway.plugin }]
