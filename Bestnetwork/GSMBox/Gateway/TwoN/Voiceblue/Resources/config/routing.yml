@@ -1,0 +1,3 @@
+gsm_box_2n_voiceblue:
+    path:      /2n/voiceblue
+    defaults:  { _controller: TwoNVoiceblueBundle:Default:index }
